@@ -1,9 +1,9 @@
 .cabecalho {
     background-color: aquamarine;
+    display:flex;
+    
 }
 
-
-
-    .cabecalho-imagem{
+.cabecalho-imagem{
     width: 200px; 
 }
