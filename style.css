@@ -7,3 +7,6 @@
 .cabecalho-imagem{
     width: 200px; 
 }
+.cabecalho-lista-item{
+    display: inline-block;
+}
